@@ -1,0 +1,57 @@
+2024-02-28 10:57:19.216 [main] INFO  Testcase.BaseClass - Failedselect_Newbikes_upcomingBikes
+2024-02-28 10:57:42.029 [main] INFO  Testcase.BaseClass - Failedselect_manufac_Honda
+2024-02-28 10:58:04.146 [main] INFO  Testcase.BaseClass - Failedvalidate_HondaBike_under_4L
+2024-02-28 10:58:27.811 [main] INFO  Testcase.BaseClass - Failedhoverusedcar_clickChennai1
+2024-02-28 10:58:51.394 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:00:28.578 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:00:32.511 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:00:48.400 [main] INFO  Testcase.BaseClass - Passedvalidate_HondaBike_under_4L
+2024-02-28 11:01:09.194 [main] INFO  Testcase.BaseClass - Passedhoverusedcar_clickChennai1
+2024-02-28 11:01:16.044 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:01:27.017 [main] INFO  Testcase.BaseClass - PassednavigateToHome
+2024-02-28 11:01:35.953 [main] INFO  Testcase.BaseClass - PassedLoginWithInvalidEmail
+2024-02-28 11:01:49.371 [main] INFO  Testcase.BaseClass - PassedcapturingErrorMessage
+2024-02-28 11:07:45.939 [main] INFO  Testcase.BaseClass - Driver Launched....
+2024-02-28 11:08:03.204 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:08:25.199 [main] INFO  Testcase.BaseClass - Failedselect_manufac_Honda
+2024-02-28 11:08:47.800 [main] INFO  Testcase.BaseClass - Failedvalidate_HondaBike_under_4L
+2024-02-28 11:09:03.436 [main] INFO  Testcase.BaseClass - Passedhoverusedcar_clickChennai1
+2024-02-28 11:09:15.187 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:09:34.838 [main] INFO  Testcase.BaseClass - ****Driver closed******
+2024-02-28 11:09:56.420 [main] INFO  Testcase.BaseClass - Driver Launched....
+2024-02-28 11:10:21.135 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:10:30.314 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:13:20.048 [main] INFO  Testcase.BaseClass - Driver Launched....
+2024-02-28 11:13:43.489 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:13:53.766 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:14:06.414 [main] INFO  Testcase.BaseClass - Passedvalidate_HondaBike_under_4L
+2024-02-28 11:14:18.906 [main] INFO  Testcase.BaseClass - Passedhoverusedcar_clickChennai1
+2024-02-28 11:14:23.846 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:14:34.202 [main] INFO  Testcase.BaseClass - PassednavigateToHome
+2024-02-28 11:14:43.209 [main] INFO  Testcase.BaseClass - PassedLoginWithInvalidEmail
+2024-02-28 11:14:57.475 [main] INFO  Testcase.BaseClass - PassedcapturingErrorMessage
+2024-02-28 11:15:08.829 [main] INFO  Testcase.BaseClass - ****Driver closed******
+2024-02-28 11:25:56.460 [main] INFO  Testcase.BaseClass - ******Driver Launched****
+2024-02-28 11:26:21.561 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:26:24.068 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:26:34.888 [main] INFO  Testcase.BaseClass - Passedvalidate_HondaBike_under_4L
+2024-02-28 11:26:45.000 [main] INFO  Testcase.BaseClass - Passedhoverusedcar_clickChennai1
+2024-02-28 11:26:47.774 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:27:00.668 [main] INFO  Testcase.BaseClass - PassednavigateToHome
+2024-02-28 11:27:07.617 [main] INFO  Testcase.BaseClass - PassedLoginWithInvalidEmail
+2024-02-28 11:27:23.795 [main] INFO  Testcase.BaseClass - PassedcapturingErrorMessage
+2024-02-28 11:27:32.611 [main] INFO  Testcase.BaseClass - ****Driver closed******
+2024-02-28 11:28:43.164 [main] INFO  Testcase.BaseClass - ******Driver Launched****
+2024-02-28 11:29:06.790 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:29:09.077 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:29:18.891 [main] INFO  Testcase.BaseClass - Passedvalidate_HondaBike_under_4L
+2024-02-28 11:29:28.937 [main] INFO  Testcase.BaseClass - Passedhoverusedcar_clickChennai1
+2024-02-28 11:29:32.393 [main] INFO  Testcase.BaseClass - Passedprinting_popularmodel
+2024-02-28 11:29:42.828 [main] INFO  Testcase.BaseClass - PassednavigateToHome
+2024-02-28 11:29:50.469 [main] INFO  Testcase.BaseClass - PassedLoginWithInvalidEmail
+2024-02-28 11:30:02.635 [main] INFO  Testcase.BaseClass - PassedcapturingErrorMessage
+2024-02-28 11:30:11.881 [main] INFO  Testcase.BaseClass - ****Driver closed******
+2024-02-28 11:30:44.258 [main] INFO  Testcase.BaseClass - ******Driver Launched****
+2024-02-28 11:31:03.875 [main] INFO  Testcase.BaseClass - Passedselect_Newbikes_upcomingBikes
+2024-02-28 11:31:10.649 [main] INFO  Testcase.BaseClass - Passedselect_manufac_Honda
+2024-02-28 11:31:27.743 [main] INFO  Testcase.BaseClass - Passedvalidate_HondaBike_under_4L

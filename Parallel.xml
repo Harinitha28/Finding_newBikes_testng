@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Parrallel-Test-Suite" thread-count="2"  parallel="tests">
+
+
+<groups>
+<run>			
+</run>
+</groups>
+ <listeners>
+<listener class-name="Utilities.ExtentReportManager"></listener>
+</listeners>
+<test  name="Chrome Test">
+<parameter name="browser" value="Chrome" ></parameter>
+  <parameter name="url"  value="https://www.zigwheels.com/"></parameter>
+
+  
+   <classes>
+        <class name="Testcase.BaseClass"/>
+      <class name="Testcase.TC1_upcomingHondaBikes"/>
+      <class name="Testcase.TC2_UsedCar"/>
+       <class name="Testcase.TC3_InvalidLogin"/>
+    </classes>
+    </test> <!-- Test -->
+    <test  name="Edge Test">
+<parameter name="browser" value="Edge" ></parameter>
+  <parameter name="url"  value="https://www.zigwheels.com/"></parameter>
+
+  
+   <classes>
+        <class name="Testcase.BaseClass"/>
+      <class name="Testcase.TC1_upcomingHondaBikes"/>
+      <class name="Testcase.TC2_UsedCar"/>
+       <class name="Testcase.TC3_InvalidLogin"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T16:51:39 IST" name="Suite" finished-at="2024-02-28T16:53:41 IST" duration-ms="121909">
+    <groups>
+      <group name="regression">
+        <method signature="TC1_upcomingHondaBikes.select_Newbikes_upcomingBikes()[pri:1, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_Newbikes_upcomingBikes" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC1_upcomingHondaBikes.select_manufac_Honda()[pri:2, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_manufac_Honda" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC1_upcomingHondaBikes.validate_HondaBike_under_4L()[pri:3, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="validate_HondaBike_under_4L" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC2_UsedCar.hoverusedcar_clickChennai1()[pri:4, instance:Testcase.TC2_UsedCar@38afe297]" name="hoverusedcar_clickChennai1" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC2_UsedCar.printing_popularmodel()[pri:5, instance:Testcase.TC2_UsedCar@38afe297]" name="printing_popularmodel" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC2_UsedCar.navigateToHome()[pri:6, instance:Testcase.TC2_UsedCar@38afe297]" name="navigateToHome" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC3_InvalidLogin.LoginWithInvalidEmail()[pri:7, instance:Testcase.TC3_InvalidLogin@2df3b89c]" name="LoginWithInvalidEmail" class="Testcase.TC3_InvalidLogin"/>
+        <method signature="TC3_InvalidLogin.capturingErrorMessage()[pri:8, instance:Testcase.TC3_InvalidLogin@2df3b89c]" name="capturingErrorMessage" class="Testcase.TC3_InvalidLogin"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="TC1_upcomingHondaBikes.select_Newbikes_upcomingBikes()[pri:1, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_Newbikes_upcomingBikes" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC1_upcomingHondaBikes.select_manufac_Honda()[pri:2, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_manufac_Honda" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC2_UsedCar.hoverusedcar_clickChennai1()[pri:4, instance:Testcase.TC2_UsedCar@38afe297]" name="hoverusedcar_clickChennai1" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC2_UsedCar.navigateToHome()[pri:6, instance:Testcase.TC2_UsedCar@38afe297]" name="navigateToHome" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC3_InvalidLogin.LoginWithInvalidEmail()[pri:7, instance:Testcase.TC3_InvalidLogin@2df3b89c]" name="LoginWithInvalidEmail" class="Testcase.TC3_InvalidLogin"/>
+      </group> <!-- smoke -->
+      <group name="master">
+        <method signature="TC1_upcomingHondaBikes.select_Newbikes_upcomingBikes()[pri:1, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_Newbikes_upcomingBikes" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC1_upcomingHondaBikes.select_manufac_Honda()[pri:2, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="select_manufac_Honda" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC1_upcomingHondaBikes.validate_HondaBike_under_4L()[pri:3, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" name="validate_HondaBike_under_4L" class="Testcase.TC1_upcomingHondaBikes"/>
+        <method signature="TC2_UsedCar.hoverusedcar_clickChennai1()[pri:4, instance:Testcase.TC2_UsedCar@38afe297]" name="hoverusedcar_clickChennai1" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC2_UsedCar.printing_popularmodel()[pri:5, instance:Testcase.TC2_UsedCar@38afe297]" name="printing_popularmodel" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC2_UsedCar.navigateToHome()[pri:6, instance:Testcase.TC2_UsedCar@38afe297]" name="navigateToHome" class="Testcase.TC2_UsedCar"/>
+        <method signature="TC3_InvalidLogin.LoginWithInvalidEmail()[pri:7, instance:Testcase.TC3_InvalidLogin@2df3b89c]" name="LoginWithInvalidEmail" class="Testcase.TC3_InvalidLogin"/>
+        <method signature="TC3_InvalidLogin.capturingErrorMessage()[pri:8, instance:Testcase.TC3_InvalidLogin@2df3b89c]" name="capturingErrorMessage" class="Testcase.TC3_InvalidLogin"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2024-02-28T16:51:39 IST" name="Chrome Test" finished-at="2024-02-28T16:53:41 IST" duration-ms="121909">
+      <class name="Testcase.TC1_upcomingHondaBikes">
+        <test-method signature="select_Newbikes_upcomingBikes()[pri:1, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" started-at="2024-02-28T16:51:51 IST" name="select_Newbikes_upcomingBikes" finished-at="2024-02-28T16:52:50 IST" duration-ms="59109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Newbikes_upcomingBikes -->
+        <test-method signature="select_manufac_Honda()[pri:2, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" started-at="2024-02-28T16:52:51 IST" name="select_manufac_Honda" finished-at="2024-02-28T16:52:53 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_manufac_Honda -->
+        <test-method signature="validate_HondaBike_under_4L()[pri:3, instance:Testcase.TC1_upcomingHondaBikes@55b0dcab]" started-at="2024-02-28T16:52:54 IST" name="validate_HondaBike_under_4L" finished-at="2024-02-28T16:53:01 IST" duration-ms="7201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_HondaBike_under_4L -->
+      </class> <!-- Testcase.TC1_upcomingHondaBikes -->
+      <class name="Testcase.BaseClass">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:Testcase.BaseClass@279fedbd]" started-at="2024-02-28T16:51:40 IST" name="setUp" finished-at="2024-02-28T16:51:51 IST" duration-ms="10791" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.zigwheels.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcase.BaseClass@279fedbd]" started-at="2024-02-28T16:53:40 IST" name="tearDown" finished-at="2024-02-28T16:53:41 IST" duration-ms="1393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcase.BaseClass -->
+      <class name="Testcase.TC2_UsedCar">
+        <test-method signature="hoverusedcar_clickChennai1()[pri:4, instance:Testcase.TC2_UsedCar@38afe297]" started-at="2024-02-28T16:53:01 IST" name="hoverusedcar_clickChennai1" finished-at="2024-02-28T16:53:08 IST" duration-ms="6728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverusedcar_clickChennai1 -->
+        <test-method signature="printing_popularmodel()[pri:5, instance:Testcase.TC2_UsedCar@38afe297]" started-at="2024-02-28T16:53:08 IST" name="printing_popularmodel" finished-at="2024-02-28T16:53:10 IST" duration-ms="1410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printing_popularmodel -->
+        <test-method signature="navigateToHome()[pri:6, instance:Testcase.TC2_UsedCar@38afe297]" started-at="2024-02-28T16:53:10 IST" name="navigateToHome" finished-at="2024-02-28T16:53:17 IST" duration-ms="6995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToHome -->
+      </class> <!-- Testcase.TC2_UsedCar -->
+      <class name="Testcase.TC3_InvalidLogin">
+        <test-method signature="LoginWithInvalidEmail()[pri:7, instance:Testcase.TC3_InvalidLogin@2df3b89c]" started-at="2024-02-28T16:53:18 IST" name="LoginWithInvalidEmail" finished-at="2024-02-28T16:53:25 IST" duration-ms="7201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidEmail -->
+        <test-method signature="capturingErrorMessage()[pri:8, instance:Testcase.TC3_InvalidLogin@2df3b89c]" started-at="2024-02-28T16:53:25 IST" name="capturingErrorMessage" finished-at="2024-02-28T16:53:40 IST" duration-ms="14477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capturingErrorMessage -->
+      </class> <!-- Testcase.TC3_InvalidLogin -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- Suite -->
+</testng-results>
